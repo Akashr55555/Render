@@ -1,0 +1,6 @@
+{
+  "name": "PDFSketch - Online PDF Editor & Tools",
+  "description": "Online suite of PDF tools for merging, splitting, compressing, converting, editing, rotating, watermarking, protecting, and managing PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
