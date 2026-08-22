@@ -1,8 +1,0 @@
-node_modules
-dist
-tmp
-data/*.sqlite3*
-.git
-.github
-.DS_Store
-*.log
